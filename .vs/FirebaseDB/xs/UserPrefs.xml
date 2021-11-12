@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{63380603-10C9-4C8E-A973-4BABDF21A847}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirebaseDB.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AC62A215-5D5C-4EBD-B518-3F0EB5EEF585" />
+  <MonoDevelop.Ide.ItemProperties.FirebaseDB.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirebaseDB/FirebaseDB/Views/StudentEntry.xaml.cs">
+    <Files>
+      <File FileName="FirebaseDB/FirebaseDB/Views/StudentList.xaml.cs" Line="29" Column="28" />
+      <File FileName="FirebaseDB/FirebaseDB/Views/StudentList.xaml" Line="22" Column="89" />
+      <File FileName="FirebaseDB/FirebaseDB/Views/StudentEntry.xaml.cs" Line="40" Column="35" />
+      <File FileName="FirebaseDB/FirebaseDB/Model/Student.cs" Line="17" Column="1" />
+      <File FileName="FirebaseDB/FirebaseDB/Views/StudentEntry.xaml" Line="23" Column="100" />
+      <File FileName="FirebaseDB/FirebaseDB/Model/StudentRepo.cs" Line="46" Column="28" />
+      <File FileName="FirebaseDB/FirebaseDB/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="FirebaseDB/FirebaseDB/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirebaseDB" expanded="True">
+            <Node name="FirebaseDB" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="StudentEntry.xaml" expanded="True">
+                  <Node name="StudentEntry.xaml.cs" selected="True" />
+                </Node>
+                <Node name="StudentList.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="FirebaseDB.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxeiwJ1s8MnL/xthOoUBs1q4wGYurTD5XElMGrCzDeJRYT6Lu1tftDvSMlMC3QDJPCF5vgZ2R31ngx16c0jyUw==",
+  "success": true,
+  "projectFilePath": "/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB.iOS/FirebaseDB.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathan/.nuget/packages/firebasedatabase.net/4.0.6/firebasedatabase.net.4.0.6.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/litedb/4.1.4/litedb.4.1.4.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

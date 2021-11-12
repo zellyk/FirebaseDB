@@ -1,0 +1,17 @@
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.csproj.AssemblyReference.cache
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/Views/StudentEntry.xaml.g.cs
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/Views/StudentList.xaml.g.cs
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.AssemblyInfoInputs.cache
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.AssemblyInfo.cs
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.csproj.CoreCompileInputs.cache
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.dll
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/ref/FirebaseDB.dll
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/FirebaseDB.pdb
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/bin/Debug/netstandard2.0/FirebaseDB.deps.json
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/bin/Debug/netstandard2.0/FirebaseDB.dll
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/bin/Debug/netstandard2.0/ref/FirebaseDB.dll
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/bin/Debug/netstandard2.0/FirebaseDB.pdb
+/Users/jonathan/Desktop/iOS/FirebaseDB/FirebaseDB/FirebaseDB/obj/Debug/netstandard2.0/XamlC.stamp

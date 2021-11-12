@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="FirebaseDB.Views.StudentEntry">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="AddToolBarItem" Text="Add" Clicked="AddToolBarItem_Clicked">
+        </ToolbarItem>
+
+        <ToolbarItem x:Name="EditToolBarItem" Text="Edit" Clicked="EditToolBarItem_Clicked">
+        </ToolbarItem>
+
+        <ToolbarItem x:Name="DeleteToolBarItem" Text="Delete" Clicked="DeleteToolBarItem_Clicked">
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Label Text="Student Entry" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="Large" />
+
+                <Entry x:Name="txtLName" Placeholder="Enter your last name"/>
+                <Entry x:Name="txtFName" Placeholder="Enter your first name"/>
+                <Entry x:Name="txtEmail" Placeholder="Enter your email address" Keyboard="Email"/>
+                <Entry x:Name="txtPhone" Placeholder="Enter your Phone Number" Keyboard="Telephone"/>
+
+            <Button x:Name="btnSave" Text="Save" CornerRadius="15" Clicked="btnSave_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

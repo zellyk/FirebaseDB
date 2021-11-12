@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FirebaseDB.Views.StudentList" Title="Student List">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="AddToolBarItem" Text="Add" Clicked="AddToolBarItem_Clicked">
+        </ToolbarItem>
+
+        <ToolbarItem x:Name="EditToolBarItem" Text="Edit" Clicked="EditToolBarItem_Clicked">
+        </ToolbarItem>
+
+        <ToolbarItem x:Name="DeleteToolBarItem" Text="Delete" Clicked="DeleteToolBarItem_Clicked">
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+    <StackLayout HorizontalOptions="CenterAndExpand">
+        <Label Text="Student List" FontSize="Large"/>
+        <ListView x:Name="StudentListView" ItemsSource="{Binding students}" HasUnevenRows="True">
+        <ListView.ItemTemplate>
+        <DataTemplate>
+        <ViewCell>
+        <Grid Padding="5" HorizontalOptions="StartAndExpand">
+        <Label Text="{Binding LastName}" FontSize="Large"/>
+        <Label Text="{Binding FirstName}" FontSize="Large" Grid.Row="0" Grid.Column="1"/>
+        <Label Text="{Binding Email}" FontSize="Large" Grid.Row="1"/>
+        <Label Text="{Binding Phone}" FontSize="Large" Grid.Row="2"/>
+        </Grid>
+        </ViewCell>
+        </DataTemplate>
+        </ListView.ItemTemplate>
+        </ListView>
+        </StackLayout>
+        </ContentPage.Content>
+</ContentPage>
+
